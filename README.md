@@ -2,7 +2,7 @@ const Discord = require("discord.js");
 const client = new Discord.Client();
 
 client.on('ready', () => {
-  console.log(`Logged in as ${client.user.Undead Chosen}!`);
+  console.log(`Logged in as ${client.user.416313053294886922}!`);
 });
 
 client.on('message', msg => {
